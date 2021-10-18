@@ -13,7 +13,7 @@ Python code and example notebook showing how to compute geopotential jet regimes
 
 ### Data
 
-*regime_data/ contains regime patterns (as Z500 anomalies) and state sequences for both classical circulation regimes (CCR) and geopotential-jet regimes (GJR) for cluster numbers between K=2 and K=10. The focus of the paper is on GJR_K3, but all data is included for completeness.
+* regime_data/ contains regime patterns (as Z500 anomalies) and state sequences for both classical circulation regimes (CCR) and geopotential-jet regimes (GJR) for cluster numbers between K=2 and K=10. The focus of the paper is on GJR_K3, but all data is included for completeness.
 * tuttecose_wcmip5.pkl - A python pickle file containing dictionaries of climate model predictors and regime metrics, used to fit the ridge regression model, and produce the scatter plots. 
 
 
