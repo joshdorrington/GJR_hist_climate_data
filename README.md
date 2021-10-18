@@ -6,10 +6,10 @@ This repo contains:
 
 ### Code
 
-*code/regime_computations_example.ipynb is a Jupyter notebook demonstrating how to compute classical and geopotential-jet regimes, how to easily cluster subsets of a time series, and how to compute the stability metric.
+* code/regime_computations_example.ipynb is a Jupyter notebook demonstrating how to compute classical and geopotential-jet regimes, how to easily cluster subsets of a time series, and how to compute the stability metric.
 Python code and example notebook showing how to compute geopotential jet regimes in ERA20C, and compute regime stability
 
-*An example of how to perform the ridge regression can be found at https://github.com/fedef17/FScripts/blob/master/kj_multireg_hist_3n_ensmean.py
+* An example of how to perform the ridge regression can be found at https://github.com/fedef17/FScripts/blob/master/kj_multireg_hist_3n_ensmean.py
 
 ### Data
 
