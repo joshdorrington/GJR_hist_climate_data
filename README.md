@@ -17,4 +17,5 @@ Python code and example notebook showing how to compute geopotential jet regimes
 * tuttecose_wcmip5.pkl - A python pickle file containing dictionaries of climate model predictors and regime metrics, used to fit the ridge regression model, and produce the scatter plots. 
 
 
-## For clarification or technical help, or if you spot an error in the data/code, please contact joshua.dorrington@physics.ox.ac.uk
+## For clarification or technical help, or if you spot an error in the data/code, please contact joshua.dorrington@kit.edu
+
